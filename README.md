@@ -1,6 +1,6 @@
 # learning_app
 
-A new Flutter project.
+I am developing an application that teaches you the Japanese language through a picture of the concept you want to learn, along with its name in English and Japanese, in addition to the sound of the word.
 
 ## Getting Started
 
